@@ -1,0 +1,26 @@
+  ____                           _                     _     ____                   _                                 
+ |  _ \    ___    __ _   _   _  (_)  _ __    ___    __| |   |  _ \    __ _    ___  | | __   __ _    __ _    ___   ___ 
+ | |_) |  / _ \  / _` | | | | | | | | '__|  / _ \  / _` |   | |_) |  / _` |  / __| | |/ /  / _` |  / _` |  / _ \ / __|
+ |  _ <  |  __/ | (_| | | |_| | | | | |    |  __/ | (_| |   |  __/  | (_| | | (__  |   <  | (_| | | (_| | |  __/ \__ \
+ |_| \_\  \___|  \__, |  \__,_| |_| |_|     \___|  \__,_|   |_|      \__,_|  \___| |_|\_\  \__,_|  \__, |  \___| |___/
+                    |_|                                                                            |___/              
+
+-> You Will Need To Have The Next Packages Installed:
+---------------------------------------------------------------------------
+| - sys (The System Package, Usually Preinstalled)                        |
+| - time (The Time Package,  Usually Preinstalled)                        |
+| - pyotp (A Package For Genarating OTP Codes Used With Google Auth)      |
+| - qrcode (A Package Por Generating QR Codes On Python)                  |
+| - random (The Package for generating random strings or Numbers)         |
+| - colorama (A Package For Coloring Things like text on python)          |
+| - pygame (A Package For Creating Games In Python)                       |
+---------------------------------------------------------------------------
+
+-> In Case That You Don't Have This Ones (Check With "pip freeze"), Install it with pip:
+
+                    -------------------------------
+                    |  $ ~ pip install <package>  |
+                    -------------------------------
+
+
+
